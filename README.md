@@ -8,3 +8,4 @@ I am a computer science student at Rutgers 😄
 - 📫 Reach me on my [website](https://abrohit.pythonanywhere.com/)
 
 <img align="left" alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abrohit&show_icons=true&hide_border=true" />
+<img align="right" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrohit&layout=compact" />
