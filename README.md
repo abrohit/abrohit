@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I am a computer science student at Rutgers 😄
 
