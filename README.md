@@ -9,4 +9,4 @@ I am a computer science student at Rutgers 😄
 
 <img align="left" alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abrohit&show_icons=true&hide_border=true&count_private=true" />
 
-<!--img align="right" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrohit&layout=compact"/-->
+<img align="right" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrohit&layout=compact"/>
