@@ -2,7 +2,7 @@
 
 I am a computer science student at Rutgers 😄
 
-- 🔭 I’m currently working on my HTML, CSS and Bulma/Bootstrap skills!
+- 🔭 I’m currently working on my HTML, and CSS skills!
 - 🌱 I’m currently learning React Native and ML
 - 💬 Ask me anything about Python or Django
 - 📫 Reach me on my [website](https://abrohit.pythonanywhere.com/)
