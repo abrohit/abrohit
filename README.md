@@ -2,9 +2,9 @@
 
 I am a computer science student at Rutgers 😄
 
-- 🔭 I’m currently working on my HTML, and CSS skills!
-- 🌱 I’m currently learning R and Data Science.
-- 💬 Ask me anything about Python or Django
+- 🔭 I’m currently working on my data science skills!
+- 🌱 I’m currently learning more about machine learning.
+- 💬 Ask me anything about Python or Django.
 - 📫 Reach me on my [website](https://abrohit.pythonanywhere.com/)
 
 <img align="left" alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abrohit&show_icons=true&hide_border=true&count_private=true" />  
