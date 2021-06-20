@@ -23,14 +23,14 @@ I am a computer science student at Rutgers 😄
 
 <br>
 
-<a href="https://www.linkedin.com/in/rohitmanjunath/" target="_blank">
+<a href="https://www.linkedin.com/in/rohitmanjunath/">
   <img align="left" alt="Rohit Manjunath | Linkedin" width="24px" src="https://github.com/abrohit/abrohit/blob/master/assets/Linkedin.svg"/>
 </a> &nbsp;&nbsp;
 
-<a href="https://twitter.com/abrohit05" target="_blank">
+<a href="https://twitter.com/abrohit05">
   <img align="left" alt="Rohit Manjunath | Twitter" width="26px" src="https://github.com/abrohit/abrohit/blob/master/assets/Twitter.svg"/>
 </a> &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/abrohit/" target="_blank">
+<a href="https://www.instagram.com/abrohit/">
   <img align="left" alt="Rohit Manjunath | Instagram" width="24px" src="https://github.com/abrohit/abrohit/blob/master/assets/Instagram.svg"/>
 </a> &nbsp;&nbsp;
