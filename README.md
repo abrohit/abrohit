@@ -7,7 +7,7 @@ I am a computer science student at Rutgers 😄
 - 🔭 I’m currently working on my data science skills!
 - 🌱 I’m currently learning more about machine learning.
 - 💬 Ask me anything about Python or Django.
-- 📫 Reach me on my [Portfolio](https://abrohit.pythonanywhere.com/).
+- 📫 Reach me on my [Portfolio](https://www.abrohit.me/).
 
 ## Stats
 
